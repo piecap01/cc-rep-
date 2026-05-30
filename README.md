@@ -26,6 +26,7 @@ The project should follow this structure:
 Important style constraint:
 - The writing should remain clear, student-like, technically correct, but not overly polished.
 - Comments and explanations up to section 8 should remain almost unchanged.
+- don't mind the section where student id, name, surname is absent 
 
 Main goal:
 - Improve the notebook from a code/methodological point of view while staying coherent with the course labs and project guidelines.
