@@ -12,16 +12,15 @@ The project should follow this structure:
 4. Visualization of receptive fields and projected receptive fields.
 5. Extraction of hidden representations from H1, H2 and H3.
 6. Computation of reconstruction errors as a sanity check for RBM pre-training.
-7. Standardization of input and hidden representations before linear read-outs.
-8. Hierarchical clustering of average class representations.
-9. Training and evaluation of linear read-outs on input pixels, H1, H2 and H3.
-10. Analysis of normalized confusion matrices across hidden representations.
-11. Construction of psychometric curves with Gaussian noise and salt-and-pepper noise.
-12. Training of a fully supervised feed-forward neural network baseline.
-13. Evaluation of robustness under white-box FGSM adversarial attacks.
-14. Analysis of transfer attacks from the FFNN to the DBN read-out.
-15. Simple noisy-data augmentation strategy and robustness evaluation.
-16. Final discussion of the main results, limitations and possible improvements.
+7. Hierarchical clustering of average class representations.
+8. Training and evaluation of linear read-outs on input pixels, H1, H2 and H3.
+9. Analysis of normalized confusion matrices across hidden representations.
+10. Construction of psychometric curves with Gaussian noise and salt-and-pepper noise.
+11. Training of a fully supervised feed-forward neural network baseline.
+12. Evaluation of robustness under white-box FGSM adversarial attacks.
+13. Analysis of transfer attacks from the FFNN to the DBN read-out.
+14. Simple noisy-data augmentation strategy and robustness evaluation.
+15. Final discussion of the main results, limitations and possible improvements.
 
 Important style constraint:
 - The writing should remain clear, student-like, technically correct, but not overly polished.
